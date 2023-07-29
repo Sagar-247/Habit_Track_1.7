@@ -1,13 +1,13 @@
 {
   "name": "express",
   "version": "1.0.0",
-  "description": "Habit Tracker",
+  "description": "Habit Tracker 1.7",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon index.js"
   },
-  "author": "Utkarsh Singh",
+  "author": "Sagar Bhivsane",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.20.1",
